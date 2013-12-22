@@ -7,7 +7,7 @@ categories: chromosomes entropy
 ---
 
 I've had some down time recently which I've partly used to write a meiosis simulator and a punnet
-square generator -- https://github.com/uberj/mendelism 
+square generator -- https://github.com/uberj/mendelism
 
 This side project plus being confused about how linked genes affect the law of independent
 assortment made me take the time to write this up.
