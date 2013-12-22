@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://uberj.com/sitemap.xml 
+Sitemap: http://uninformedbiology.github.io/sitemap.xml 

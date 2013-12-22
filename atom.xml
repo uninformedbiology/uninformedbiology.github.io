@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Uninformed Biology]]></title>
-  <link href="http://uberj.com/atom.xml" rel="self"/>
-  <link href="http://uberj.com/"/>
-  <updated>2013-12-21T22:05:05-08:00</updated>
-  <id>http://uberj.com/</id>
+  <link href="http://uninformedbiology.github.io/atom.xml" rel="self"/>
+  <link href="http://uninformedbiology.github.io/"/>
+  <updated>2013-12-22T13:20:27-08:00</updated>
+  <id>http://uninformedbiology.github.io/</id>
   <author>
     <name><![CDATA[Jacques Uber]]></name>
     
@@ -15,11 +15,26 @@
   
   <entry>
     
+    <title type="html"><![CDATA[A problem with biohacking and magnetic implants]]></title>
+    <link href="http://uninformedbiology.github.io/blog/2013/12/22/a-problem-with-biohacking-and-magnetic-implants/"/>
+    
+    <updated>2013-12-22T12:48:30-08:00</updated>
+    <id>http://uninformedbiology.github.io/blog/2013/12/22/a-problem-with-biohacking-and-magnetic-implants</id>
+    
+    <content type="html"><![CDATA[<p>Installing computers and magnets within one&rsquo;s own body is occuring today for reasons other than critical medical concerns. One man placed magnets in his ear so he can have embed headphones into his head (<a href="http://discuss.biohack.me/discussion/379/implanted-earphones/p1">biohack.me</a>.) Another man implanted a smartphone size device into his arm to do things like monitor his vital signs (<a href="http://newsfeed.time.com/2013/11/01/this-guy-implanted-a-giant-computer-chip-into-his-arm-without-medical-supervision/">time.com</a>.)</p>
+
+<p>I would propose a simple issue with implanting devices like this into your body. What if you need an MRI? Magnetic Resonance Imaging uses extremely powerful magnets (0.5 to 7 Tesla) to essentially line up every hydrogen ion in your body to make detailed images of a region inside your body. If you have a bunch of metal in your body you can&rsquo;t get an MRI without ripping out the implants. To me this is a deal breaker; no implants for me.</p>
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
     <title type="html"><![CDATA[Reproductive Entropy]]></title>
-    <link href="http://uberj.com/blog/2013/12/21/reproductive-entropy/"/>
+    <link href="http://uninformedbiology.github.io/blog/2013/12/21/reproductive-entropy/"/>
     
     <updated>2013-12-21T16:41:43-08:00</updated>
-    <id>http://uberj.com/blog/2013/12/21/reproductive-entropy</id>
+    <id>http://uninformedbiology.github.io/blog/2013/12/21/reproductive-entropy</id>
     
     <content type="html"><![CDATA[<p>I&rsquo;ve had some down time recently which I&rsquo;ve partly used to write a meiosis simulator and a punnet
 square generator &mdash; <a href="https://github.com/uberj/mendelism">https://github.com/uberj/mendelism</a></p>
