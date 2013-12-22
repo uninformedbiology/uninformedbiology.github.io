@@ -20,14 +20,14 @@ First some definitions:
 -   *the law of independent assortment* -- during meiosis the probability of a single gene's allele
     going to a specific germ cell is independent of other genes.
 
--   *linked genes* -- genes that are "close" to eachother on a chromosome (not sure how close is close
+-   *linked genes* -- genes that are "close" to each other on a chromosome (not sure how close is close
     enough).
 
 The law of segregation is a result of Anaphase I. During Anaphase I a homologous pair of chromosomes (2 chromosomes, 4 chromatids) splits. One of the pair  has the first allele and the second has the second allele. Meiosis I finishes with two daughter cells containing disjoint sets of alleles (i.e. each gene   has its alleles spread across both cells).
 
 The law of independent assortment can be seen as a result of Metaphase I.  During Metaphase I, right before Anaphase I, two alleles line up on either side of the Metaphase I plate. Which cell an allele joins for meiosis II depends on which side of the plate they were on -- this sidedness is random.
 
-So how do linked genes interact with these two laws? The law of segregation is still true because even if two alleles (who were members of different genes) we on the same chromosome, they would still split into two cells. Said another way: the product cells of meiosis I would still have disjoint sets of alleles.
+So how do linked genes interact with these two laws? The law of segregation is still true because even if two alleles (who were members of different genes) were on the same chromosome, they would still split into two cells. Said another way: the product cells of meiosis I would still have disjoint sets of alleles.
 
 Linked genes do interact with the law of independent assortment. If two genes are on the same chromosome then their configuration in the Metaphase I plate will always be the same.
 
