@@ -6,7 +6,7 @@ comments: true
 categories: MRI biohacking implants
 ---
 
-Installing computers and magnets within one's own body is occuring today for reasons other than critical medical concerns. One man placed magnets in his ear so he can have embed headphones into his head ([biohack.me][0].) Another man implanted a smartphone size device into his arm to do things like monitor his vital signs ([time.com][1].)
+Installing computers and magnets within one's own body is occuring today for reasons other than critical medical concerns. One man placed magnets in his ear so he can have embeded headphones into his head ([biohack.me][0].) Another man implanted a smartphone size device into his arm to do things like monitor his vital signs ([time.com][1].)
 
 I would propose a simple issue with implanting devices like this into your body. What if you need an MRI? Magnetic Resonance Imaging uses extremely powerful magnets (0.5 to 7 Tesla) to essentially line up every hydrogen ion in your body to make detailed images of a region inside your body. If you have a bunch of metal in your body you can't get an MRI without ripping out the implants. To me this is a deal breaker; no implants for me.
 
