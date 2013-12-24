@@ -6,7 +6,7 @@ comments: true
 categories: chromosomes DNA genes maps
 ---
 
-The title of this blog post is actually the title of the chapter I just finished in my biology text book ([Campbell][0]). This post is mostly for helping my own recollection.
+The title of this blog post is actually the title of the chapter I just finished in my biology text book ([Campbell][0] 2009). This post is mostly for helping my own recollection.
 
 -   *sex linked gene* -- A gene located on a sex chromosome
 
