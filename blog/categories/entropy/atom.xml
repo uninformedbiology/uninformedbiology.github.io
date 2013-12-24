@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: entropy | Uninformed Biology]]></title>
-  <link href="http://uninformedbiology.github.io/blog/categories/entropy/atom.xml" rel="self"/>
-  <link href="http://uninformedbiology.github.io/"/>
-  <updated>2013-12-22T17:41:12-08:00</updated>
-  <id>http://uninformedbiology.github.io/</id>
+  <link href="http://uberj.com/blog/categories/entropy/atom.xml" rel="self"/>
+  <link href="http://uberj.com/"/>
+  <updated>2013-12-24T13:49:51-08:00</updated>
+  <id>http://uberj.com/</id>
   <author>
     <name><![CDATA[Jacques Uber]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Reproductive Entropy]]></title>
-    <link href="http://uninformedbiology.github.io/blog/2013/12/21/reproductive-entropy/"/>
+    <link href="http://uberj.com/blog/2013/12/21/reproductive-entropy/"/>
     <updated>2013-12-21T16:41:43-08:00</updated>
-    <id>http://uninformedbiology.github.io/blog/2013/12/21/reproductive-entropy</id>
+    <id>http://uberj.com/blog/2013/12/21/reproductive-entropy</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve had some down time recently which I&rsquo;ve partly used to write a meiosis simulator and a punnet
 square generator &mdash; <a href="https://github.com/uberj/mendelism">https://github.com/uberj/mendelism</a></p>
 

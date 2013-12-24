@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Uninformed Biology]]></title>
-  <link href="http://uninformedbiology.github.io/atom.xml" rel="self"/>
-  <link href="http://uninformedbiology.github.io/"/>
-  <updated>2013-12-22T17:41:12-08:00</updated>
-  <id>http://uninformedbiology.github.io/</id>
+  <link href="http://uberj.com/atom.xml" rel="self"/>
+  <link href="http://uberj.com/"/>
+  <updated>2013-12-24T13:49:51-08:00</updated>
+  <id>http://uberj.com/</id>
   <author>
     <name><![CDATA[Jacques Uber]]></name>
     
@@ -15,11 +15,60 @@
   
   <entry>
     
+    <title type="html"><![CDATA[The Chromosomal Basis of Inheritance]]></title>
+    <link href="http://uberj.com/blog/2013/12/22/the-chromosomal-basis-or-inheritance/"/>
+    
+    <updated>2013-12-22T19:25:16-08:00</updated>
+    <id>http://uberj.com/blog/2013/12/22/the-chromosomal-basis-or-inheritance</id>
+    
+    <content type="html"><![CDATA[<p>The title of this blog post is actually the title of the chapter I just finished in my biology text book (<a href="http://www.abebooks.com/Campbell-Biology-9th-Edition-Jane-Reece/11395612429/bd?cm_mmc=gmc-_-gmc-_-PLA-_-v01">Campbell</a>). This post is mostly for helping my own recollection.</p>
+
+<ul>
+<li><p><em>sex linked gene</em> &mdash; A gene located on a sex chromosome</p></li>
+<li><p><em>Bar body</em> &mdash; Human females (other species also have Bar bodies) inherit two copies of the X sex chromosome. During embryo development one of these X chromosomes becomes compact and shrinks in size effectively leaving a female with one functioning X chromosome. Which of the two X chromosomes becomes a Bar body seems to be random.</p></li>
+<li><p><em>linked genes</em> &mdash; Genes that are &ldquo;close&rdquo; to each other on a chromosome (not sure how close is close enough)</p></li>
+<li><p><em>recombinant types</em> &mdash; When inspecting two or more characters in a test cross, an \(F_{1}\) offspring can either express a phenotype similar to or different than its parents. When offspring express a phenotype that isn&rsquo;t like one of its parent&rsquo;s, that offspring is called a recombinant type.</p></li>
+<li><p><em>genetic recombination</em> &mdash; the production of offspring with traits that differ from those found in either parent</p></li>
+<li><p><em>genetic map</em> &mdash; An ordered list of genes on a specific chromosome where order is defined by the loci of genes compared to other genes</p></li>
+<li><p><em>linkage map</em> &mdash; A genetic map based on recombination frequencies</p></li>
+<li><p><em>map unit</em> &mdash; The distance between two genes on a genetic map</p></li>
+</ul>
+
+
+<h2>Linkage maps</h2>
+
+<p>Alleles on the same chromosome are observed to be passed to offspring together. (See my <a href="http://uberj.com/blog/2013/12/21/reproductive-entropy/">previous post</a> to see what I think the consequences of this are.) For example, if a parent heterozygous dominant for two linked genes (same chromosome) is crossed (this is a dihybrid cross) with a parent who is homozygous recessive for both genes, then offspring will either be heterozygous dominant or homozygous recessive since those are the only two types of combinations found on the chromosomes passed down by its parents. Every so often though, crossing over occurs
+and the offspring doesn&rsquo;t inherit a gene combination that either of the parents had; this offspring is a <em>recombinant type</em>.</p>
+
+<p>Linkage maps use the frequency at which a <em>recombinant type</em> appears as a way to measure distance. If crossing over points happen randomly along a chromosome then genes that are <em>closer</em> together have a <em>smaller</em> chance of causing recombination. Like wise, the <em>further</em> two genes are from each other the more likely it is that crossing over would occur between the two genes and cause a recombinant offspring.</p>
+
+<p>By ordering all genes while trying to minimize the frequency between any two genes you piece together a linkage map.</p>
+
+<ul>
+<li><p><em>cytogenic maps</em> &mdash; Maps that mark genes based on chromosomal features like stained bands</p></li>
+<li><p><em>aneuploidy</em>  &mdash; When a cell does not have a chromosome count that is also a multiple of the organism&rsquo;s haploid number</p></li>
+<li><p><em>monosomic</em>  &mdash; When a zygote is missing a chromosome (it has 2n &ndash; 1). The zygote is <em>monosomic</em> for its missing chromosome.</p></li>
+<li><p><em>trisomic</em>  &mdash; When a zygote has an extra chromosome (it as 2n + 2). The zygote is <em>trisomic</em> for its extra chromosome type.</p></li>
+</ul>
+
+
+<h2>A Question</h2>
+
+<p>Why can&rsquo;t two women have a baby girl? A zygote formed by two female eggs would receive 23 chromosomes from mom and another 23 chromosomes from other mom, would this work? I asked this question to myself some weeks ago and didn&rsquo;t know the answer until I read about <em>genomic imprinting</em>. During gamete formation certain genes are methylated (\(&mdash;CH_{3}\) groups attach to cystosine nucleotides). Genes that are methylated stay wrapped with up with their histones in a condensed form and do not code for
+mRNA (or proteins). Genomic imprinting affects genes on a per sex basis; i.e. genomic imprinting of a certain gene only happens in certain sexes.</p>
+
+<p>Genomic imprinting can explain why two females, while having the right <em>amount</em> of DNA, couldn&rsquo;t possibly form a functioning offspring: certain genes are not active in female sex cells and zygotes rely on the male version of the allele for gene expression.</p>
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
     <title type="html"><![CDATA[A problem with biohacking and magnetic implants]]></title>
-    <link href="http://uninformedbiology.github.io/blog/2013/12/22/a-problem-with-biohacking-and-magnetic-implants/"/>
+    <link href="http://uberj.com/blog/2013/12/22/a-problem-with-biohacking-and-magnetic-implants/"/>
     
     <updated>2013-12-22T12:48:30-08:00</updated>
-    <id>http://uninformedbiology.github.io/blog/2013/12/22/a-problem-with-biohacking-and-magnetic-implants</id>
+    <id>http://uberj.com/blog/2013/12/22/a-problem-with-biohacking-and-magnetic-implants</id>
     
     <content type="html"><![CDATA[<p>Installing computers and magnets within one&rsquo;s own body is occuring today for reasons other than critical medical concerns. One man placed magnets in his ear so he can have embeded headphones into his head (<a href="http://discuss.biohack.me/discussion/379/implanted-earphones/p1">biohack.me</a>.) Another man implanted a smartphone size device into his arm to do things like monitor his vital signs (<a href="http://newsfeed.time.com/2013/11/01/this-guy-implanted-a-giant-computer-chip-into-his-arm-without-medical-supervision/">time.com</a>.)</p>
 
@@ -31,10 +80,10 @@
   <entry>
     
     <title type="html"><![CDATA[Reproductive Entropy]]></title>
-    <link href="http://uninformedbiology.github.io/blog/2013/12/21/reproductive-entropy/"/>
+    <link href="http://uberj.com/blog/2013/12/21/reproductive-entropy/"/>
     
     <updated>2013-12-21T16:41:43-08:00</updated>
-    <id>http://uninformedbiology.github.io/blog/2013/12/21/reproductive-entropy</id>
+    <id>http://uberj.com/blog/2013/12/21/reproductive-entropy</id>
     
     <content type="html"><![CDATA[<p>I&rsquo;ve had some down time recently which I&rsquo;ve partly used to write a meiosis simulator and a punnet
 square generator &mdash; <a href="https://github.com/uberj/mendelism">https://github.com/uberj/mendelism</a></p>
