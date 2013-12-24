@@ -43,7 +43,7 @@ By ordering all genes while trying to minimize the frequency between any two gen
 
 A Question
 ----------
-Why can't two women have a baby girl? A zygote formed by two female eggs would receive 23 chromosomes from mom and another 23 chromosomes from other mom, would this work? I asked this question to myself some weeks ago and didn't know the answer until I read about *genomic imprinting*. During gamete formation certain genes are methylated (\\(--CH\_{3}\\) groups attach to cystosine nucleotides). Genes that are methylated stay wrapped with up with their histones in a condensed form and do not code for
+Why can't two women have a baby girl? A zygote formed by two female eggs would receive 23 chromosomes from mom and another 23 chromosomes from other mom, would this work? I asked this question to myself some weeks ago and didn't know the answer until I read about *genomic imprinting*. During gamete formation certain genes are methylated (\\(--CH\_{3}\\) groups attach to cytosine nucleotides). Genes that are methylated stay wrapped with up with their histones in a condensed form and do not code for
 mRNA (or proteins). Genomic imprinting affects genes on a per sex basis; i.e. genomic imprinting of a certain gene only happens in certain sexes.
 
 Genomic imprinting can explain why two females, while having the right _amount_ of DNA, couldn't possibly form a functioning offspring: certain genes are not active in female sex cells and zygotes rely on the male version of the allele for gene expression.
