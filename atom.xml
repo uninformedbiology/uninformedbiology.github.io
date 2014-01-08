@@ -4,7 +4,7 @@
   <title><![CDATA[Uninformed Biology]]></title>
   <link href="http://uberj.com/atom.xml" rel="self"/>
   <link href="http://uberj.com/"/>
-  <updated>2013-12-24T14:05:29-08:00</updated>
+  <updated>2014-01-08T12:39:38-08:00</updated>
   <id>http://uberj.com/</id>
   <author>
     <name><![CDATA[Jacques Uber]]></name>
@@ -79,7 +79,7 @@ mRNA (or proteins). Genomic imprinting affects genes on a per sex basis; i.e. ge
   
   <entry>
     
-    <title type="html"><![CDATA[Reproductive Entropy]]></title>
+    <title type="html"><![CDATA[Reproductive Uncertainty]]></title>
     <link href="http://uberj.com/blog/2013/12/21/reproductive-entropy/"/>
     
     <updated>2013-12-21T16:41:43-08:00</updated>
@@ -116,7 +116,7 @@ enough).</p></li>
 <p>Another experiment: Say we have four genes. There are only <em>two</em> chromsomes and the genes are split evenly between the chromosomes. We can calculate the number of possible plate configurations 2 * 2 or 2 ^ 2 or 4.</p>
 
 <p>In information theory, entropy is a measure of unpredictability of information content (<cite><a href="http://en.wikipedia.org/wiki/Entropy_%28information_theory%29">Wikipedia</a></cite>).
-In this way we can interpret an increase in the number of chromosomes to mean an increase in unpredictability of the genotype of the germ cells. We could call this sexual entropy or reproductive entropy.</p>
+In this way we can interpret an increase in the number of chromosomes to mean an increase in unpredictability of the genotype of the germ cells.</p>
 ]]></content>
     
   </entry>
