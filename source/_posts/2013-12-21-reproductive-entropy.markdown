@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Reproductive Entropy"
+title: "Reproductive Uncertainty"
 date: 2013-12-21 16:41:43 -0800
 comments: true
-categories: chromosomes entropy
+categories: chromosomes entropy uncertainty
 ---
 
 I've had some down time recently which I've partly used to write a meiosis simulator and a punnet
@@ -36,7 +36,7 @@ Here is an experiment: Say we have four genes. All four genes are on their own c
 Another experiment: Say we have four genes. There are only _two_ chromsomes and the genes are split evenly between the chromosomes. We can calculate the number of possible plate configurations 2 * 2 or 2 ^ 2 or 4.
 
 In information theory, entropy is a measure of unpredictability of information content (<cite>[Wikipedia][0]</cite>).
-In this way we can interpret an increase in the number of chromosomes to mean an increase in unpredictability of the genotype of the germ cells. We could call this sexual entropy or reproductive entropy.
+In this way we can interpret an increase in the number of chromosomes to mean an increase in unpredictability of the genotype of the germ cells.
 
 [0]:http://en.wikipedia.org/wiki/Entropy_%28information_theory%29
 
